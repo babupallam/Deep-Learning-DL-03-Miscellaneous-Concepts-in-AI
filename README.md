@@ -3,6 +3,11 @@ This repository contains my notes, observations and research on miscellaneous co
 
 
 1.AI Pipeline
+
 2. Ensemble Learning
+
 3. FFNN without backpropogation
+
 4. use of generic algorithm or evolutionary compuyting in AI?
+
+5. Fuxxy logic vs Neural Network
