@@ -1,4 +1,4 @@
-# Deep-Learning-DL-03-Miscellaneous-Concepts-in-AI
+# Deep-Learning-DL-07-Miscellaneous-Concepts-in-AI
 This repository contains my notes, observations and research on miscellaneous concepts in AI
 
 
