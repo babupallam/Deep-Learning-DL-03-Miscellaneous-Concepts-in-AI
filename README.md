@@ -16,4 +16,6 @@ This repository contains my notes, observations and research on miscellaneous co
 
 7. DIfferent kind of data in AI, spacial data, temporal data, and others.
 
-8. 
+8. Comprehensive Idea about LLM
+
+9. 
